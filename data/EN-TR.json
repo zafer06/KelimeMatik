@@ -1,0 +1,9 @@
+{
+    "kelimeler" : [
+        {
+            "seviye" : "temel",
+            "soru" : "book",
+            "cevaplar" : [ {"cevap1" : "kitap", "cevap2" : "yer ayırtmak"} ]
+        }
+    ]
+}
